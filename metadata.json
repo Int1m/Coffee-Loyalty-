@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Loyalty Program",
+  "description": "Mobile-first loyalty program for a cozy coffee shop featuring Guest, Barista, and Admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
